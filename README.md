@@ -1,0 +1,2 @@
+# inventory-core
+Inventory Core
